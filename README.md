@@ -1,5 +1,10 @@
 # Introduction to Java
 
+ <img width="100" alt="arrow" src="https://user-images.githubusercontent.com/19231569/213458967-d77d1ede-cbb8-4cda-8d58-7ac2a1c70503.png">
+ 
+ ![CBF-Black-Yellow](https://github.com/paulinejdavis/intro-to-java-course/assets/111147520/5f791732-c586-44ee-835d-68765a1f4522)
+
+
 [![Java Language](https://img.shields.io/badge/PLATFORM-OpenJDK-3A75B0.svg?style=for-the-badge)][1]
 [![MIT License](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=for-the-badge)][13]
 

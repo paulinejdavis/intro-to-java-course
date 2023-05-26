@@ -1,9 +1,6 @@
 # Introduction to Java
 
- <img width="100" alt="arrow" src="https://user-images.githubusercontent.com/19231569/213458967-d77d1ede-cbb8-4cda-8d58-7ac2a1c70503.png">
- 
-
-<img width="200" alt="screenshot" src="https://github.com/paulinejdavis/intro-to-java-course/assets/111147520/4d85d8dd-b0d4-46d7-9be1-403800bdca21">
+ <img width="100" alt="arrow" src="https://user-images.githubusercontent.com/19231569/213458967-d77d1ede-cbb8-4cda-8d58-7ac2a1c70503.png"><img width="200" alt="screenshot" src="https://github.com/paulinejdavis/intro-to-java-course/assets/111147520/4d85d8dd-b0d4-46d7-9be1-403800bdca21">
 
 
 [![Java Language](https://img.shields.io/badge/PLATFORM-OpenJDK-3A75B0.svg?style=for-the-badge)][1]

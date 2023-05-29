@@ -2,19 +2,8 @@ package com.cbfacademy;
 
 public class StringExercises {
 
-    public static void main(String[] args) {
-        StringExercises exercises = new StringExercises();
-
-        char[] characters = {'h', 'e', 'l', 'l', 'o'};
-        String result = exercises.fromCharacters(characters);
-        System.out.println(result);
-    }
-
-    public String fromCharacters(char[] characters) {
-        // TODO - Write code that creates a String from the input array of characters
-        return new String(characters);
-
-        //throw new RuntimeException("Not implemented");
+    public String fromCharacters(char[] inputCharacters) {
+        return new String(inputCharacters);
     }
 
     public Long howMany(String text, Character character) {
@@ -26,7 +15,6 @@ public class StringExercises {
         }
         return count;
     }
-
 
     public Boolean isPalindrome(String word) {
         int i = 0;
@@ -44,7 +32,15 @@ public class StringExercises {
     public String getName() {
         return "String Exercises";
     }
+
+    public static void main(String... args) {
+        StringExercises exercises = new StringExercises();
+        char[] characters = {'h', 'e', 'l', 'p'};
+        String result = exercises.fromCharacters(characters);
+        System.out.println(result);
+    }
 }
+
 //    This might help:
 //
 //        1) "Build" menu -> "Rebuild Project". Sometimes Intellij doesn't rewrite the classes because they already exist, this way you ask Intellij to rewrite everything.
